@@ -1,0 +1,10 @@
+./settings
+./target/dependency
+.breakpoints
+.classpath
+.project
+.replit
+Main.class
+Main.java
+pom.xml
+replit.nix
